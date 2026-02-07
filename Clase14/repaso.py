@@ -33,9 +33,11 @@ NOTA_MINIMA = 70
 
 
 def evaluar_estudiantes(lista_estudiantes):
+
     """
     Clasifica estudiantes en aprobados y reprobados.
     """
+    
     aprobados = []
     reprobados = []
     
