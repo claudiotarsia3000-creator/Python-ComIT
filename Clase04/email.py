@@ -15,3 +15,5 @@ extension_valida = (email.endswith(".com") or
 print(f"\nTiene @: {'Si' if tiene_arroba else 'No'}")
 print(f"Extension valida: {'Si' if extension_valida else 'No'}")
 print(f"En minusculas: {email.lower()}")
+
+

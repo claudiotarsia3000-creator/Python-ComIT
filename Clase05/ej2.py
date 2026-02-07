@@ -1,9 +1,9 @@
-# ejercicio 2  
-# #Mayor de edad
- 
-edad = int (input('Ingrese su edad'))
+# ejercicio 2
 
-if edad >=18:
-    print('Eres mayor de edad')
+numero = int(input('dime un numero:'))
+
+if numero %2 == 0:
+    print('par')
 else:
-    print('Eres menor de edad')
+    print('impar')
+

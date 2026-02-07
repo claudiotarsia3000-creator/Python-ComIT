@@ -1,16 +1,19 @@
-#Pedir Notas
+# Ejercicio 4
 
-Nombre = input('Ingrese su Nombre ')
-Nota = float (input('Cual es su nota '))
+try:
+    edad = int(input("Ingresa tu edad: "))
 
-if Nota >= 90:
-    print ('Su Clasificacion es A')
-elif Nota >=80:
-    print ('Su Clasificacion es B ')
-elif Nota >=60:
-    print ('Su Clasificacion es C ')
-elif Nota >=20:
-    print ('Su Clasificacion es D ')
-else:
-    print('Su Clasificacion es F')
+    if edad < 0:
+        print("Edad no válida")
+    elif edad < 13:
+        print("Eres un niño")
+    elif edad < 18:
+        print("Eres un adolescente")
+    elif edad < 65:
+        print("Eres un adulto")
+    else:
+        print("Eres un adulto mayor")
+
+except ValueError:
+    print("Error: debes ingresar un número entero")
 

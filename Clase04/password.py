@@ -1,14 +1,13 @@
-#password
+#password 
 
-password = input("Seleccione su Password: ")
+password = input("dime un password: ")
 
-#verificarPass
-longitud_ok = len(password) >=8
+#verificar
+longitud_ok= len(password) >= 8
 no_password = password != "password"
-no_numeros = password != "12345678"
+no_num = password != "12345678"
 
-#condicionales para que el PASS sea VALIDO
-password_valido = longitud_ok and no_password and no_numeros
+password_valido = longitud_ok and no_password and no_num
 
-print (f"""   THE PASSWORD 
-   ES VALIDO: {password_valido}""")
+print(f"Password valida: {password_valido}")
+

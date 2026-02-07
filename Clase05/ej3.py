@@ -1,11 +1,11 @@
-#ejercicio 3
-#Mayor de edad
+#ej3
 
-Nombre = input('Cual es tu nombre ')
-edad = int(input('Cual es tu edad?'))
-            
+nombre = input('como te llamas?')
+edad = int(input("cuantos a;os tienes?"))
+
 if edad >= 18:
-    print(f'Hola {Nombre}, eres mayor de edad')
+    print(f'hola {nombre}, eres mayor de edad')
+
 else:
-    print(f'Lo siento mucho {Nombre}, no eres mayor de edad')
-    print('NO PUEDES INGRESAR')
+    print (f'lo siento {nombre}, eres menor de edad')
+

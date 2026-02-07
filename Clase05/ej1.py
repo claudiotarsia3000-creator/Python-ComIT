@@ -1,10 +1,6 @@
-# ejercicio 1 PAR O IMPAR
+#ejercicio 1
 
-#Pido numero al usuario
-numero = int(input('dime un numero:'))
+numero = int(input('ingresa un numero:'))
 
-#condicional para ver si es par 
-if numero %2 == 0:
-    print('par')
-else:
-    print('impar')
+if numero >= 0:
+    print('es numero positivo')
