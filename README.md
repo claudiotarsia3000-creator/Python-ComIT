@@ -1,6 +1,6 @@
 # Python Summer Bootcamp 2026 🐍
 
-¡Hola! Soy ClaudioTarsia3000, tambien KlaussTattoo... estudiante de **Analista de Sistemas en la ORT**. Este repositorio documenta mi progreso en el curso de verano de Python dictado por **ComIT (Canadá)**. 
+¡Hola! Soy ClaudioTarsia3000, también KlaussTattoo... estudiante de **Analista de Sistemas en la ORT**. Este repositorio documenta mi progreso en el curso de verano de Python dictado por **ComIT (Canadá)**. 
 
 Aquí registro la evolución de mis conocimientos, integrando mi base técnica de Java (Eclipse) con la potencia de Python para el desarrollo ágil.
 
@@ -26,21 +26,21 @@ Aquí registro la evolución de mis conocimientos, integrando mi base técnica d
 | Clase | Tema Principal | Contenidos Clave | Estado |
 | :---: | :--- | :--- | :---: |
 | 01 | **Introducción** | Instalación, variables y tipos de datos básicos. | 🟢 Ready |
-| 02 | **Control de Flujo I** | Condicionales (`if`, `elif`, `else`) e IMC. | 🟢 Ready |
-| 03 | **Control de Flujo II** | Bucles `while`, `for` y control de iteraciones. | 🟢 Ready |
-| 04 | **Estructuras de Datos I** | Listas, métodos de listas y tuplas. | 🟢 Ready |
+| 02 | **Control de Flujo I** | Condicionales (`if`, `elif`, `else`) e IMC. | 🟡 In Process |
+| 03 | **Control de Flujo II** | Bucles `while`, `for` y control de iteraciones. | 🟡 In Process |
+| 04 | **Estructuras de Datos I** | Listas, métodos de listas y tuplas. | 🟡 In Process |
 | 05 | **Estructuras de Datos II** | Diccionarios y Sets (Conjuntos). | 🟡 In Process |
 | 06 | **Funciones I** | Definición, parámetros y retorno de valores. | 🟢 Ready |
 | 07 | **Funciones II** | Ámbito de variables y funciones Lambda. | 🟢 Ready |
 | 08 | **Manejo de Errores** | Excepciones (`try`, `except`) y debugging. | 🟢 Ready |
-| 09 | **POO I** | Clases, objetos y constructores (`__init__`). |  🟡 In Process |
+| 09 | **POO I** | Clases, objetos y constructores (`__init__`). | 🟢 Ready |
 | 10 | **POO II** | Herencia, polimorfismo y encapsulamiento. | 🟢 Ready |
 | 11 | **Módulos y Paquetes** | Importación de librerías y estructura de proyecto. | 🟢 Ready |
 | 12 | **Manejo de Archivos** | Lectura y escritura de archivos TXT y CSV. | 🟢 Ready |
 | 13 | **Bases de Datos I** | Introducción a SQL y SQLite con Python. | 🟢 Ready |
 | 14 | **Bases de Datos II** | Operaciones CRUD y consultas complejas. | 🟢 Ready |
-| 15 | **Desarrollo Web I** | Introducción a Flask y rutas básicas. |  🟡 In Process |
-| 16 | **Proyecto Final** | Integración total de contenidos y despliegue. |  🔵 Planning |
+| 15 | **Desarrollo Web I** | Introducción a Flask y rutas básicas. | 🟡 In Process |
+| 16 | **Proyecto Final** | Integración total de contenidos y despliegue. | 🔵 Planning |
 
 ---
 
@@ -52,9 +52,11 @@ Aquí registro la evolución de mis conocimientos, integrando mi base técnica d
 python3 nombre_del_archivo.py
 ```
 
-# 
-# 📫 Conectemos
-### ¡Siempre abierto a charlar sobre tecnología!
+## 📫 Conectemos siempre    
+## ¡Siempre abierto a charlar sobre tecnología!
 
-
-### Hecho con ❤️ en Buenos Aires 🇦🇷
+<p align="center">
+<b>De ARGENTINA - Buenos Aires  🇦🇷🇦🇷🇦🇷</b>
+<p align="center">
+<b>Hecho con ❤️ </b>
+</p>
