@@ -13,14 +13,8 @@ Aquí registro la evolución de mis conocimientos, integrando mi base técnica d
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📊 Hoja de Ruta del Curso (16 Clases)
-
-| Estado | Referencia |
-| :--- | :--- |
-| 🔵 Planning | Contenido pendiente |
-| 🟡 In Process | En desarrollo / Practicando |
-| 🟢 Ready | Clase completada y ejercicios subidos |
+## 📊 Hoja de Ruta y Registro de Proyectos
+*Leyenda de estados: 🟢 Completado | 🟡 En proceso | 🔵 Pendiente*
 
 ### 📂 Registro de Proyectos
 | Clase | Tema Principal | Contenidos Clave | Estado |
@@ -51,6 +45,16 @@ Aquí registro la evolución de mis conocimientos, integrando mi base técnica d
 ```bash
 python3 nombre_del_archivo.py
 ```
+---
+
+## 🤝 Acuerdo Amistoso
+Para que nos llevemos bien y el código fluya, te pido:
+* **Respeto al autor:** No borres mi nombre del crédito si usás este material.
+* **Sin garantías:** No me eches la culpa si algo no funciona; recordá que soy estudiante y ¡estamos aprendiendo!
+* **Cultura Colaborativa:** Si te sirve el contenido, invitame un café o vení a tatuarte a [Klauss Tattoo Studio](https://www.instagram.com/klausstattoostudio/) en Buenos Aires - Argentina.
+* **Charlemos:** También podés [escribirme por WhatsApp](https://wa.me/5491160013880) para hablar de tattoos o de código. ☕🎨📱
+
+---
 
 ## 📫 Conectemos siempre    
 ## ¡Siempre abierto a charlar sobre tecnología!
@@ -59,4 +63,11 @@ python3 nombre_del_archivo.py
 <b>De ARGENTINA - Buenos Aires  🇦🇷🇦🇷🇦🇷</b>
 <p align="center">
 <b>Hecho con ❤️ </b>
+</p>
+
+
+---
+<p align="center">
+  ⚖️ <b>Licencia</b><br>
+  Este proyecto está bajo la <a href="./LICENSE">Licencia MIT</a>.
 </p>
