@@ -1,8 +1,8 @@
 # Python Summer Bootcamp 2026 🐍
 
-¡Hola! Soy Claudio, estudiante de **Analista de Sistemas en la ORT**. Este repositorio está dedicado a documentar mis ejercicios y progresos en el curso de verano de Python dictado por **Com IT (Canadá)**. 
+¡Hola! Soy ClaudioTarsia3000, tambien KlaussTattoo... estudiante de **Analista de Sistemas en la ORT**. Este repositorio documenta mi progreso en el curso de verano de Python dictado por **ComIT (Canadá)**. 
 
-En este espacio vas a encontrar la transición de mis bases en Java (Eclipse) hacia la versatilidad de Python, aplicando lógica de programación y resolución de problemas.
+Aquí registro la evolución de mis conocimientos, integrando mi base técnica de Java (Eclipse) con la potencia de Python para el desarrollo ágil.
 
 ---
 
@@ -14,41 +14,47 @@ En este espacio vas a encontrar la transición de mis bases en Java (Eclipse) ha
 
 ---
 
-## 📊 Actividad del Curso
+## 📊 Hoja de Ruta del Curso (16 Clases)
 
-| Estado de Actividad | Referencia |
+| Estado | Referencia |
 | :--- | :--- |
-| 🔵 Planning | Ejercicio por comenzar |
-| 🟡 In Process | En desarrollo / Debugging |
-| 🟢 Ready | Terminado y testeado |
+| 🔵 Planning | Contenido pendiente |
+| 🟡 In Process | En desarrollo / Practicando |
+| 🟢 Ready | Clase completada y ejercicios subidos |
 
-### 📂 Registro de Proyectos - Semana 1
-| # | Ejercicio / Tema | Descripción | Estado |
-| :--- | :--- | :--- | :--- |
-| 01 | **Calculadora de IMC** | Cálculo de masa corporal con sugerencia de peso ideal. | 🟢 Ready |
-| 02 | **Manejo de Strings** | Manipulación de textos, `len()` y concatenación. | 🟢 Ready |
-| 03 | **Estructuras de Datos** | Primeros pasos con Listas y Diccionarios. | 🟡 In Process |
-| 04 | **Automatización API** | Proyecto de mensajería automática (Próximamente). | 🔵 Planning |
+### 📂 Registro de Proyectos
+| Clase | Tema Principal | Contenidos Clave | Estado |
+| :---: | :--- | :--- | :---: |
+| 01 | **Introducción** | Instalación, variables y tipos de datos básicos. | 🟢 Ready |
+| 02 | **Control de Flujo I** | Condicionales (`if`, `elif`, `else`) e IMC. | 🟢 Ready |
+| 03 | **Control de Flujo II** | Bucles `while`, `for` y control de iteraciones. | 🟢 Ready |
+| 04 | **Estructuras de Datos I** | Listas, métodos de listas y tuplas. | 🟢 Ready |
+| 05 | **Estructuras de Datos II** | Diccionarios y Sets (Conjuntos). | 🟡 In Process |
+| 06 | **Funciones I** | Definición, parámetros y retorno de valores. | 🟢 Ready |
+| 07 | **Funciones II** | Ámbito de variables y funciones Lambda. | 🟢 Ready |
+| 08 | **Manejo de Errores** | Excepciones (`try`, `except`) y debugging. | 🟢 Ready |
+| 09 | **POO I** | Clases, objetos y constructores (`__init__`). |  🟡 In Process |
+| 10 | **POO II** | Herencia, polimorfismo y encapsulamiento. | 🟢 Ready |
+| 11 | **Módulos y Paquetes** | Importación de librerías y estructura de proyecto. | 🟢 Ready |
+| 12 | **Manejo de Archivos** | Lectura y escritura de archivos TXT y CSV. | 🟢 Ready |
+| 13 | **Bases de Datos I** | Introducción a SQL y SQLite con Python. | 🟢 Ready |
+| 14 | **Bases de Datos II** | Operaciones CRUD y consultas complejas. | 🟢 Ready |
+| 15 | **Desarrollo Web I** | Introducción a Flask y rutas básicas. |  🟡 In Process |
+| 16 | **Proyecto Final** | Integración total de contenidos y despliegue. |  🔵 Planning |
 
 ---
 
 ## 🛠️ Cómo ejecutar los ejercicios
-1. Clonar el repositorio o descargar los archivos `.py`.
-2. Abrir una terminal en la carpeta del proyecto.
-3. Ejecutar el script deseado:
+1. Clonar el repositorio.
+2. Navegar a la carpeta de la clase deseada.
+3. Ejecutar el script:
 ```bash
-python3 calculadora_imc.py
+python3 nombre_del_archivo.py
 ```
 
-
-
-
+# 
 # 📫 Conectemos
-
-¡Me encanta aprender cosas nuevas! Podés encontrarme en mis redes para charlar de código, Java o Python:
-
-Hecho con ❤️ en Buenos Aires 🇦🇷
+### ¡Siempre abierto a charlar sobre tecnología!
 
 
-
-
+### Hecho con ❤️ en Buenos Aires 🇦🇷
