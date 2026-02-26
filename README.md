@@ -35,6 +35,7 @@ Aquí registro la evolución de mis conocimientos, integrando mi base técnica d
 | [14](./Clase14/) | **Bases de Datos II** | Operaciones CRUD y consultas complejas. | 🟢 Ready |
 | [15](./Clase15/) | **Desarrollo Web I** | Introducción a Flask y rutas básicas. | 🟡 In Process |
 | [16](./Clase16/) | **Proyecto Final** | Integración total de contenidos y despliegue. | 🔵 Planning |
+| [17](./Clase17/) | **Testing & QA** | Pruebas unitarias (`unittest`), aserciones y validaciones. | 🟢 Ready |
 
 ---
 
