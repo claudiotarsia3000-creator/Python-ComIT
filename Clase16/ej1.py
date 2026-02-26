@@ -14,4 +14,3 @@ print(archivo.exists()) # verifica si el archivo existe
 print(archivo.is_file()) # verifica si es un archivo
 print(archivo.is_dir()) # verifica si es un directorio  
 
-
