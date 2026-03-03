@@ -1,6 +1,5 @@
 # Validación Profesional
 
-
 try: 
     # Pedimos la nota (esto puede fallar si escriben letras)
     nota = float(input('¿Cuál es su nota?: '))

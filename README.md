@@ -36,8 +36,10 @@ Aquí registro la evolución de mis conocimientos, integrando mi base técnica d
 | [14](./Clase14/) | **Repaso Intensivo** | Serie de ejercicios prácticos (P01-P08) de nivelación. | 🟢 Ready |
 | [15](./Clase15/) | **Manejo de Errores** | Debugging, manejo de excepciones y refactorización. | 🟢 Ready |
 | [16](./Clase16/) | **Manejo de Sistema** | Librerías `datetime`, `pathlib` y organización de archivos. | 🟢 Ready |
-| [17](./Clase17/) | **POO & Testing** | Clases (Persona), validadores y Unit Testing (calculadora). | 🟢 Ready |
-
+| [17](./Clase17/) | **Testing & Validaciones** | Pytest, Calculadora y Unit Testing de validadores. | 🟢 Ready |
+| [18](./Clase18/) | **POO I: Objetos** | Modelado de entidades (Banco, Mascota, Producto). | 🟢 Ready |
+| [19](./Clase19/) | **POO II: Métodos** | Lógica de negocio, estados y Cuenta Bancaria. | 🟢 Ready |
+| [20](./Clase20/) | **POO III: Herencia** | Uso de `super()`, polimorfismo y clases hijas. | 🟢 Ready |
 ---
 
 ## 🛠️ Cómo ejecutar los ejercicios
